@@ -1,0 +1,76 @@
+#textos-quemsomos {
+  /*padding:0px;*/
+  /*padding-top:0px;*/
+  margin-top:-16px;
+}
+
+.conteudo-quemsomos {
+  color:#000000;
+}
+
+.cabecalho-conteudo-quemsomos {
+  color:#4cb2d4;
+  font-family:'Josefin Slab', serif;
+}
+
+.header-quemsomos {
+  font-size:45px;
+  color:#367abd;
+  margin-top:14px;
+  margin-bottom:25px;
+  font-family:Lobster, cursive;
+}
+
+#imagens-quemsomos {
+  margin-top:-13px;
+}
+
+@media (max-width:360px) {
+  #imagens-quemsomos {
+    margin-top:0px;
+  }
+}
+
+#img-quemsomos-2 {
+  margin-bottom:53px;
+  margin-top:19px;
+}
+
+#modelos {
+  background-color:#4cb2d4;
+}
+
+.cabecalho-form {
+  color:#367abd;
+  font-size:50px;
+  font-family:Lobster, cursive;
+}
+
+.cabecalho-modelos {
+  font-family:Lobster, cursive;
+  font-size:45px;
+  color:#ffffff;
+}
+
+#quem-somos {
+}
+
+.form-group.conteudo-form {
+  width:398px;
+  height:236px;
+  padding-top:11px;
+  margin-bottom:32px;
+}
+
+#contato {
+  margin-bottom:45px;
+}
+
+.btn.btn-default.btn-lg {
+  background-color:#4cb2d4;
+}
+
+.btn.btn-info.btn-block {
+  margin-top:14px;
+}
+
