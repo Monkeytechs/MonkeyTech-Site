@@ -1,0 +1,113 @@
+.navbar.navbar-default.navigation-clean {
+  background-color:#1f2041;
+}
+
+body {
+  background-color:#c1c1c1;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+}
+
+#quem-somos-titulo {
+  height:0;
+  margin:0;
+  text-align:center;
+  padding-top:24px;
+  color:#f5fbef;
+  font-family:ABeeZee, sans-serif;
+  font-weight:bold;
+  letter-spacing:5px;
+  line-height:38px;
+}
+
+.bloco-quem-somos {
+  background-color:#c5d86d;
+}
+
+.box-quemsomos {
+}
+
+.item-menu {
+  font-size:20px;
+  margin-top:23px;
+  font-family:'Advent Pro';
+}
+
+.label-contato {
+  color:#f5fbef;
+  padding-top:0px;
+}
+
+@media (max-width:767px) {
+  .form-horizontal {
+    margin-right:5px;
+    margin-left:14px;
+  }
+}
+
+#formulario-contato {
+  background-color:#404e4d;
+  padding-top:10px;
+  padding-right:10px;
+  padding-left:10px;
+  margin-top:26px;
+  margin-right:119px;
+  margin-left:119px;
+  padding-bottom:1px;
+  margin-bottom:26px;
+}
+
+#textoCapa {
+  color:#f5fbef;
+  font-family:'Advent Pro', sans-serif;
+  font-size:102px;
+  margin:auto;
+}
+
+.tituloBlocos {
+  font-family:Abel, sans-serif;
+  letter-spacing:9px;
+  font-size:43px;
+  color:#3d5a6c;
+}
+
+.textoTituloBlocos {
+  color:white;
+  font-family:'Advent Pro', sans-serif;
+  letter-spacing:7px;
+  font-size:41px;
+}
+
+.tituloBloco {
+  background-color:#0b3954;
+  border-top:none;
+  border-left:none;
+  border-right:none;
+  border-radius:0;
+  border-bottom:solid 2px;
+  border-bottom-color:#c5d86d;
+}
+
+#imgQuemSomos {
+}
+
+.iconesQuemSomos {
+  width:68px;
+  margin-top:30px;
+}
+
+.qualidadesEmpresa {
+}
+
+#blocoContato {
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  background-color:#c1c1c1;
+}
+
+#blocoQuemSomos {
+  background-color:white;
+}
+
